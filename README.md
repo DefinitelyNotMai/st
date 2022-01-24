@@ -1,6 +1,8 @@
 # My st build
 Patches used:
-- none
+- anysize
+- boxdraw
+- ligatures
 
 ## Installation
 ```
