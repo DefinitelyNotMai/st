@@ -1,6 +1,7 @@
 # My st build
 Patches used:
 - [anysize](https://st.suckless.org/patches/anysize/)
+- [boxdraw](https://st.suckless.org/patches/boxdraw/)
 
 ## Installation
 ```
