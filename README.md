@@ -1,6 +1,6 @@
 # My st build
 Patches used:
-- none
+- [anysize](https://st.suckless.org/patches/anysize/)
 
 ## Installation
 ```
