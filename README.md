@@ -2,6 +2,7 @@
 Patches used:
 - [anysize](https://st.suckless.org/patches/anysize/)
 - [boxdraw](https://st.suckless.org/patches/boxdraw/)
+- [ligatures](https://st.suckless.org/patches/ligatures/)
 
 ## Installation
 ```
