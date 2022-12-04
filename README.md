@@ -3,6 +3,7 @@ Patches used:
 - [anysize](https://st.suckless.org/patches/anysize/)
 - [boxdraw](https://st.suckless.org/patches/boxdraw/)
 - [ligatures](https://st.suckless.org/patches/ligatures/)
+- [bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/)
 
 ## Installation
 ```
